@@ -18,10 +18,6 @@ name=Extra Packages for Enterprise Linux 7 - $basearch
 baseurl=http://mirrors.ustc.edu.cn/epel/7/$basearch
 gpgcheck=0
 
-[openstack]
-name=OpenStack
-baseurl=http://mirrors.ustc.edu.cn/centos/7/cloud/x86_64/openstack-ocata/
-gpgcheck=0
 
 [ceph]
 name=Ceph packages for $basearch
